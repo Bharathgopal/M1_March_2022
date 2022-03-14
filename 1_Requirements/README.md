@@ -37,3 +37,9 @@
     * Unit testing
     * Analysis
     * Code Quality - Online Tools
+
+# Practice
+* Certificates
+* [System Setup](https://github.com/stepin654321/MiniProject_Template/wiki)
+* [HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
+* Project
