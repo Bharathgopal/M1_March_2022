@@ -1,16 +1,5 @@
-# Write a shell script to create a text file
-* File must be named **TODO_YYYYMMDD_HHMM**
-* Date must be captrured in every file in the first line 
+# Shell Script 
+* [Activity1](https://github.com/Bharathgopal/M1_March_2022/blob/main/01_Activity/shellsciprt1.md)
 
-## Implementation language
-* Shell script
-
-### Explaination
-* Let the script be named mfilecreator.sh
-* On running this file, a file named **TODO_YYYYMMDD_HHMM**
-  * YYYY is year
-  * MM is month
-  * DD is date
-  * HH is hour in 24 hour format
-  * MM is minutes
-* The files must contain the **YYYYMMDD** in the first line
+# C Programming
+* [Activity1](https://github.com/Bharathgopal/M1_March_2022/blob/main/01_Activity/c-program1.md)
